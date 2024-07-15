@@ -1,3 +1,5 @@
+![code coverage badge](https://github.com/mjurgo/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+
 # checking out boot.dev
 # learn-cicd-starter (Notely)
 
